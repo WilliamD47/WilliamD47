@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on PVPRush and Bannister Discord bot (not yet on GitHub)
-- 🌱 I’m currently learning Java
-- 💬 Ask me about python
-- 📫 How to reach me: WilliamD47#6710 on Discord
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: has YouTube channel
+Use Python for bodging random things and messing around,
+Mainly working on Typescript React for websites,
+Have worked on SwiftUI for native iOS and macOS apps,
+Would reccomend using Mantine as a Component library.
